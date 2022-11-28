@@ -1,4 +1,1 @@
-# praktikum_sprint2
-
-
-frefr
+# qa_python
